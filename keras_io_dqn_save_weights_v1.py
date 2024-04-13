@@ -2,7 +2,7 @@
 ## by  Jacob Chapman and Mathias Lechner, available here as of 
 ## 11/11/2021
 ## https://github.com/keras-team/keras-io/blob/master/examples/rl/deep_q_network_breakout.py
-## Changes made:
+## Paul Changes made:
 ## * use breakwall version of breakout instead of atari
 ## * log in tensorboard compatible format and print logs
 ## * save weights of model each time moving episodic reward reaches a new max

@@ -1,8 +1,4 @@
 # Script to test a pre-trained model
-# Written by Matthew Yee-King
-# MIT license 
-# https://mit-license.org/
-
 import sys
 import os
 from baselines.common.atari_wrappers import make_atari, wrap_deepmind
